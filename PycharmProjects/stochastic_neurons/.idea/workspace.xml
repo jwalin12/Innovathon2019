@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0f88b4c-094a-42dc-b262-25e50a18ee43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/stochastic_neurons/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/stochastic_neurons/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stochastic_neurons" />
+  </component>
+  <component name="ProjectId" id="1kr9iSbV9qZu6nnWjobT38FwtYm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stochastic_neurons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.base_neuron_unit_test">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stochastic_neurons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/stochastic_neurons/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base_neuron_unit_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stochastic_neurons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stochastic_neurons/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stochastic_neurons/tests/base_neuron_unit_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stochastic_neurons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stochastic_neurons/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stochastic_neurons/tests/network_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.base_neuron_unit_test" />
+      <item itemvalue="Python.network_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.base_neuron_unit_test" />
+        <item itemvalue="Python.network_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f88b4c-094a-42dc-b262-25e50a18ee43" name="Default Changelist" comment="" />
+      <created>1606447970307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606447970307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="188" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606448228706">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="188" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.803@0.23.1440.803" timestamp="1606448228706" />
+    <state x="648" y="23" width="474" height="803" key="#xdebugger.evaluate" timestamp="1607148380403">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="648" y="23" width="474" height="803" key="#xdebugger.evaluate/0.23.1440.803@0.23.1440.803" timestamp="1606453425647" />
+    <state x="648" y="23" key="#xdebugger.evaluate/0.23.1440.805@0.23.1440.805" timestamp="1607148380403" />
+    <state width="1381" height="275" key="GridCell.Tab.0.bottom" timestamp="1607249685695">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1606467623218" />
+    <state width="1381" height="275" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1607249685695" />
+    <state width="1381" height="275" key="GridCell.Tab.0.center" timestamp="1607249685695">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1606467623218" />
+    <state width="1381" height="275" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1607249685695" />
+    <state width="1381" height="275" key="GridCell.Tab.0.left" timestamp="1607249685694">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1606467623217" />
+    <state width="1381" height="275" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1607249685694" />
+    <state width="1381" height="275" key="GridCell.Tab.0.right" timestamp="1607249685695">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1606467623218" />
+    <state width="1381" height="275" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1607249685695" />
+    <state width="1381" height="253" key="GridCell.Tab.1.bottom" timestamp="1607163981015">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.1.bottom/0.23.1440.803@0.23.1440.803" timestamp="1606467623220" />
+    <state width="1381" height="253" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1607163981015" />
+    <state width="1381" height="253" key="GridCell.Tab.1.center" timestamp="1607163981014">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.1.center/0.23.1440.803@0.23.1440.803" timestamp="1606467623219" />
+    <state width="1381" height="253" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1607163981014" />
+    <state width="1381" height="253" key="GridCell.Tab.1.left" timestamp="1607163981013">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.1.left/0.23.1440.803@0.23.1440.803" timestamp="1606467623219" />
+    <state width="1381" height="253" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1607163981013" />
+    <state width="1381" height="253" key="GridCell.Tab.1.right" timestamp="1607163981015">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1399" height="210" key="GridCell.Tab.1.right/0.23.1440.803@0.23.1440.803" timestamp="1606467623219" />
+    <state width="1381" height="253" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1607163981015" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__exception__[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
